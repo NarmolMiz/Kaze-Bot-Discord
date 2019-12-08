@@ -1,1 +1,1 @@
-# Kaze-Bot-Discord
+# KitsuneFoxDiscordBOT
